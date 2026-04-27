@@ -1,0 +1,4 @@
+anthropic>=0.96.0
+openai>=2.32.0
+human-eval>=1.0.3
+numpy>=2.0.0
